@@ -1,0 +1,10 @@
+#orange{
+	color:orange;
+}
+
+.jumbotron{
+	background: url("Capture.jpg");
+	background-position: center ;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
